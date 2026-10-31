@@ -1,0 +1,5 @@
+{
+  "name": "dfcs-dashboard",
+  "main": "scripts/cloudflare_worker.js",
+  "compatibility_date": "2026-09-15"
+}
